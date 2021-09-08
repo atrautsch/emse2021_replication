@@ -71,7 +71,7 @@ pip install -r requirements.txt
 Due to the restriction of Github for files > 100 MB we do not bundle these files.
 ```bash
 cd data
-wget https://zenodo.org/record/5494134/files/all_changes_sebert.csv.gz?download=1
+wget https://zenodo.org/record/5494134/files/all_changes_sebert.csv.gz
 ```
 
 ### Run Jupyter notebooks
