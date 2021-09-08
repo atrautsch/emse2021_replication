@@ -1,0 +1,988 @@
+project_url,revision_hash,message,internal_quality,external_quality,sw_adaptive,project,label_internal_quality,label_external_quality,has_label
+https://code.google.com/a/eclipselabs.org/p/tapiji/,fc21d266c205497596bbc4aecb0a2b62558d0e0d,"""updated licenses
+""",True,False,False,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,3fa1fbf35a2e750c3b932c7721f5b820ed518adf,"""updated licenses
+""",True,False,False,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,8e0167a91d4717daead6e14541c7655ee45c1430,"""updated licenses
+""",True,False,False,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,d5323221449f55323f7b3558350f3e078007ac1c,"""updated licenses
+""",True,False,False,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,895ccdf8615c0b9bbbef60dbfc88614a6f27926b,"""updated licenses
+""",True,False,False,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,a449a6993aa2850d828e87676210224b6f24d35b,"""updated licenses
+""",True,False,False,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,512b4f8b9423e962db00dd90b7a89dbf43c6fe9a,"""updated licenses
+""",True,False,False,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,d698699901d72f73212e302ad715c97a4c4fc10e,"""Adapts the namespace of all TapiJI plug-ins to org.eclipselabs.tapiji.*.
+""",True,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,d26352162c497083a294b999126f6a23bb5a45f3,"""Adapts the namespace of all TapiJI plug-ins to org.eclipselabs.tapiji.*.
+""",True,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,b784b84322f3113e43fe4cade915d18f74a85132,"""Adapts the namespace of all TapiJI plug-ins to org.eclipselabs.tapiji.*.
+""",True,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,ba424c200bb5b1321f2a8872dfbb1b6f95e2eab0,"""Adapts the namespace of all TapiJI plug-ins to org.eclipselabs.tapiji.*.
+""",True,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,05f4312a0fd7a993277c47362726bb027282a198,"""Adapts the namespace of all TapiJI plug-ins to org.eclipselabs.tapiji.*.
+""",True,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,8ddd5253544c01c22d08c634b08b7fab75c86864,"""Adapts the namespace of all TapiJI plug-ins to org.eclipselabs.tapiji.*.
+""",True,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,94a5344305fb5e4def14642eea2ca69dbd87511e,"""Adapts the namespace of all TapiJI plug-ins to org.eclipselabs.tapiji.*.
+""",True,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,ad97977bc5310342aead2139c86637098d1e2e94,"""Adapts the namespace of all TapiJI plug-ins to org.eclipselabs.tapiji.*.
+""",True,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,6468e8aa21f0fcf95bdd3eebb2e5109ba723621b,"""Adapts the namespace of all TapiJI plug-ins to org.eclipselabs.tapiji.*.
+""",True,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,906c7a7d7f8b0b325111b4cfb5748904bce7074b,"""Adapts the namespace of all TapiJI plug-ins to org.eclipselabs.tapiji.*.
+""",True,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,a0a3baeaeaf96094b7b174ad2faaa48de185e50e,"""Fixes bug in generation of Java bundle key hovers.
+""",False,True,False,tapiji,False,True,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,c2fb7797cc536cb8d091b5bea942bd7664f40a74,"""Fixes minor bugs.
+""",True,True,False,tapiji,False,True,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,b6145ff411edfdd4fe253743c393c3db6ac5241e,"""Fixes minor bugs
+
+""",True,False,False,tapiji,False,True,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,25b42d9807047c9d58eb2035f38554383de318d7,"""Fixes minor bugs
+""",True,True,False,tapiji,False,True,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,ef188634902f882c9f95c1d753a5b3bf50c86b1c,"""Fixes minor bugs
+""",True,True,False,tapiji,False,True,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,4691277b8848f49aae42a49ae19df8e14e6322d5,"""Fixes minor bugs
+""",False,True,False,tapiji,False,True,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,4dfb9b11c8a8ccfca75bb282c1b7ddef04c4e1c7,"""adapt plugin versions
+""",True,False,False,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,d23a54277258ea0cd8b255e85e1550de118c65ff,"""Releases V0.0.2
+""",True,False,False,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,de3323d5b23516fb77ccc8d681140ed8fbef2826,"""Fixing typo and minor bug.
+""",True,True,False,tapiji,True,True,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,96002c8a5530eeb589fdf2cfaac811c6509b3569,"""Fixes configuration bugs.
+""",False,True,False,tapiji,False,True,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,2e476072a7ab2b962887e15502e91dcaf7158bf4,"""Adapts product configuration.
+""",True,False,False,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,ab0dc4fa8e25c5273c5143de51b50f490fba77ca,"""Fixing resource save error.
+""",True,False,False,tapiji,False,True,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,8fb56b3ec6696cdb34f9623b39e1bbd9d884d788,"""Creating private branch for the implementation of key refactoring functionality.
+
+""",False,False,False,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,f774c04eb4469403cda27764a58ac87bcf2c6dab,"""removes  and  plug-ins
+""",False,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,8e28a45ac0adc8040942b3923f4b4fecb9ccaf92,"""removes essiembre resource bundle editor
+""",False,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,f932807d5c49548c1bbbdc6df1e949fe196e6cc5,"""adds the plug-ins  and
+""",False,False,True,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,3c558b6bd33611c366f4299f9e639288a7e47d38,"""adds missing folders in  plug-in
+""",False,True,False,tapiji,False,True,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,361f6ac51d73daf352fe42b8e2f164dc9a6775d5,"""adds missing icons folder for
+""",False,True,False,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,a5e981d512d6b8983b4adcd85f75dd459271595f,"""removes ui core
+""",False,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,d2a76d6b71ad0a40daa420d1b4ca447f8fb3b0de,"""adds ui core
+""",False,False,True,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,a57bee46d7db4cd6257d45a0733cf575602b0bb3,"""Creates `stable` branch.
+
+The stable branch is copied from `issue-32` and used for getting a stable release that is based on the babel editor plug-in.
+
+""",True,False,False,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,77b746d68550cbfe0ed00f26db032fc2130d1970,"""Creates branch `master`
+
+""",True,False,False,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,1dc43f3412b46422dfa4c4a29bc520ff41a5601e,"""Adapts babel core for supporting a Compiler compliance level of 1.5.
+
+Revoves @Override annotation that lead to export errors with a configured compiler compliance level of 1.5.
+
+""",True,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,71c4f371b028394948f86d8064228e29fb93f671,"""Removes unused dependencies/imports.
+
+First step of cleaning up the current codebase. All Java imports have been revisited and organized.
+
+""",True,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,84db103b6f7e6dcca997a34175a4891f1fa18d51,"""Prototypes marker update approach.
+
+Gets the markers current position information from the abstract marker annotation model.
+
+""",False,False,True,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,6c9b915e74ffa69f81095dbbecc2d3c998cb2766,"""Cleans up plugin configuration files.
+
+Cleans up build properties.
+
+""",True,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,b788e8a0e8fa435fb665fa8d13117d597f0c82fc,"""Merges  into .
+""",False,False,False,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,736edba1d834a660bb01e9b9704cd7d7b310a097,"""removes the outdated package namespace `at.ac.tuwien.inso.tapiji`.
+
+""",True,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,566090b5a7d4f50ac29e07c935fec79495458c24,"""Adapts the translator for using the messages editor.
+
+""",False,False,True,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,87fac898aa1b973c701daaa8c96a13442cbf72fe,"""Defines the babel editor dependency to the PDE as optional.
+
+Fixes Issue 45.
+Fixes Issue 51.
+Uses Java reflection for accessing PDE related classes. If the PDE plug-in isn't loaded within the currently executed Eclipse instance",False,False,True,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,1b8bb690889cf66be91235c8c4909f572768a505,"""removes remaining eclipselabs package stubs.
+
+""",False,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,1aa515210315bead423699472250e4b599a135ab,"""Renames also the plugin directories.
+
+
+""",True,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,6fd08d88f3724a73261ed91defe3c1881699fe9e,"""Removes the unused completion proposal `ValueOfResourceBundleProposal`.
+
+""",True,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,fd6b6d067bd20b0b9a2aa76fe529252f0356b780,"""Fixes some critical auto-complete issues.
+
+Addresses Issue 62
+Open issues:
+ * Calling auto-complete in the middle of a string",False,True,False,tapiji,False,True,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,7c085d36db29b5d796869c8e3c8d85b93c7bb4c3,"""Fixes further critical problems with auto-completion.
+
+""",False,True,False,tapiji,False,True,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,2cfb74fc772440dcad0f75f1882b5959240139ce,"""Final cleanup of the java auto-complete functionality.
+
+Open point:
+ * use start and end session callbacks
+
+""",False,True,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,4024e350d765be2eb312369b2c68cf16c1739151,"""Disables tapiji auto-complete",False,False,True,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,02e52f66e05400002b043794d7fcd9d165239c2a,"""increases generation performace of auto-complete proposals.
+
+Fixes Issue 62.
+
+""",True,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,f6892a2e31f7db9fb37caf38b66826ffb496deca,"""Renames `StringLiteralAuditor` to `I18nBuilder`.
+
+Addresses Issue 72.
+
+""",True,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,4b4b7653e10717aa879e06f46a4c15f741ff80f0,"""Encapsulates extension point management into `ExtensionManager`.
+
+Fixes Issue 72.
+
+Applied changes:
+ * Extract extension point handling into the new static manager class `ExtensionManager`
+ * Removes the static initialization block from `I18nBuilder`
+
+""",True,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,f6ea68ffa03cf7a0cbf75eab3778034632744f46,"""Adds missing code license headers.
+
+Adresses Issue 75.
+
+""",True,False,False,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,eb9976a662b9bec6fb38929e2b262e24b3d2fc73,"""Renames `tapiji.tools.java` to `tapiji.tools.java.ui`
+
+""",True,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,9b53aafc716b44c0d905ec60c44c4f266d718131,"""Adds the new project `tapiji.tools.java`.
+
+""",True,False,False,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,0bf9e191fdd374ddc4484ffdf0294e2fd9b79877,"""Separates core and ui concerns for the java extension plug-in.
+
+""",True,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,465f1cf4f6add88ddfc6ae3ca724edf3e296b673,"""Adapts license headers.
+
+Fixes Issue 75.
+Adds Contributors section.
+""",True,False,False,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,e06c67f1d3506ce057844810350babaecc50b5db,"""Adds contribution comments for Michael Gasser.
+
+""",False,False,False,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,e4d34d3340b9467ac3d73b3c13f8dde20b428006,"""Cleans up `tapiji.tools.java.ui`.
+
+""",False,True,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,37d68385670d60a4bb73d2947e9da1eef0173c6b,"""Cleans up build stragegy.
+
+""",False,False,True,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,04e5bace99ae09e0b43d3eea7806ca6bf654da94,"""Improves performance of building resource / cleans up projects.
+
+Fixes Issue 76.
+
+Touches resources after creating a new resource bundle entry.
+
+""",True,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,a89de6d79c53874ac8b31c2f64e4e426eaa997d9,"""
+""",True,False,False,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,8484cd9b9ed5b4e01aab4d2d58a4585d5aa2be64,"""Separates UI and non-UI concerns for the core plug-in.
+
+Contributes Issue 73.
+ * Adapts the Activator to extend `Plugin` instead of `AbstractUiPlugin`
+ * Moves marker and nature management to `core.ui`
+
+""",False,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,a40c1ef1aebb6263f4f32c6d36a8c12be6423338,"""Adds missing resources to translator plug-in.
+
+""",False,True,False,tapiji,False,True,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,bf51cd67ad8c2ecbf3f340d840dadcb44c4949b3,"""Fixes marker update problem in Messages editor.
+
+Fixes Issue 79.
+
+""",False,True,False,tapiji,False,True,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,258a0004d516ffeeb9ea49ac6a9726af79027389,"""Minor clean up.
+
+""",True,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,80f75e3b338955c6f977a32a6de460682eb34034,"""Updates license headers.
+
+""",True,False,False,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,7d2794b7554e237dd5ec51a178f8c815e01a9d0b,"""Creates new master from stable.
+
+""",False,False,False,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,a307fbcc9de63945fea3d0dc298ea14eaf59cf5b,"""Deletes branch master.
+
+""",False,False,False,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,39982c0bc8abc5b7bfa8731f6df65037727297f4,"""Renames branch 'master_tmp' to 'master'.
+
+""",False,False,False,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,f5ff5b55dbe1c786acddbe835ed1b6ef824e0c9e,"""Removes out-dated LGPL sources and adapts copyright headers.
+
+The wording """"TapiJI"""" located in the copyright header has been replaced with a list of all contributors that have modified a particular file.
+
+""",True,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,2a5cdb2e4e6e9a0b6a220b9ede279b087931499a,"""Fixes bugs in nature assignment.
+
+""",False,True,False,tapiji,False,True,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,a43b27df5dc74f1c39c7219ac7142ba75368cb4d,"""Fixes bug in CreateResourceBundleEntryDialog.
+
+""",False,True,False,tapiji,False,True,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,7f961184225354a829401daa9cec28a21bef0144,"""Fixes startup exception in rbmanager plugin and detects bundles during startup.
+
+Fixes Issue 87
+References Issue 50
+Fixes a excetption within the ResourceBundleDetectionVisitor that occurred during startup. Moreover",False,True,False,tapiji,False,True,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,a0fa1c4621da229178a184a3d2ef1cd0a659c1c1,"""Fixes bug in loading resource bundles.
+
+During startup some resource bundles are not detected. The reason therefore was an inproperly handled exception. This change adapts exception handling as well as bundle loading.
+
+""",False,True,False,tapiji,False,True,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,8aae1912452031ca5dc8da6a7bd8d4466aff950a,"""Merges revisions 500-560 from stable into master branch.
+
+""",False,False,False,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,eb607b04c22f826837484e763caead59ae68200e,"""Merges stable into master.
+
+
+""",False,False,False,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,5c03cffef065ade846eb9b99ee16bcd5e047d633,"""Merges stable into master.
+
+""",False,False,False,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,08654ce6854a8728cc01cec2e15908d162a35fa6,"""Merges stable into master.
+
+""",False,False,False,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,eacef5292eec40870a44812d0389293a21a7fc49,"""Fix NPE during startup of translator application.
+
+Fixes NPE during lookup of project name for RCP translator.
+
+""",False,True,False,tapiji,False,True,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,c3ffab2b941024491f3c7bf5498973e81e53e272,"""Update about.html files.
+""",False,False,True,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,cb8a05ec055238c44e99117b60bbda1a394a5082,"""Remove org.eclipse.babel.tapiji.translator.rbe plug-in.
+
+
+""",True,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,c930b13e2e1515c4e4b0039ff1b136fab3635483,"""Merge branch 'stable' into branch 'master'
+
+Conflicts:
+	org.eclipse.babel.core/src/org/eclipse/babel/core/message/internal/MessagesBundleGroup.java
+	org.eclipse.babel.core/src/org/eclipse/babel/core/message/strategy/PropertiesFileGroupStrategy.java
+	org.eclipse.babel.tapiji.translator.rbe/META-INF/MANIFEST.MF
+""",False,False,False,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,2b6613770cbf5e6d5ac6a99dae5325a64a35d2f4,"""Replaces new PDEUtils merged from stable branch with old PDE Utils.
+
+We prefer using the new PDEUtils class written by Stefan Reiterer. But since this class brings us a direct dependency to the PDE package",False,False,True,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,1e82a31319c2613173fe03bb625aec866cffefd4,"""Adds gitignore file.
+""",True,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,e99464c45f8394708291498864de1c18f183434c,"""Removes the outdate plug-in 'org.apache.commons.io'.
+""",True,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,e865dfb1f190d36243c09c317dfc1f0c369178c9,"""[RAP] Removes outdated encryption project from warfile definition.
+""",True,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,cf7bf0118558d283a54592a7eb4beb37ac4233a3,"""Massive whitespace replacement (kill trailing spaces & spaces instead of tabs)
+""",True,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,d5d80e1722cef18e5a8b629eb3f75bd846818624,"""Define gitignore rules for project binaries and local settings.
+
+Cleans up plug-in projects by removing `.setting` folders. For preventing the checkin of binary data and local settings",True,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,bb33f4f482c3914efb4b2498ec2d34f79beff145,"""Removes icon folder from the tool's core plugin.
+
+Since all UI specific concerns are part of the *.ui plug-ins",True,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,663575068c45608bfd45348ec98d1a26834cbb51,"""Cleans up build properties and plugin description files.
+
+Based on previous refactorings",True,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,2d9369db681af2deef27ea4cf3ef965e6c4b5159,"""Remove unused icons from org.eclipse.babel.tapiji.tools.core.ui
+
+The tool's core.ui plugin contained various unused icons. Some of them were original photoshop drafs and others are relicts from prototypical enhancements. This change removes all unused and temporal icons.
+(cherry picked from commit 7cf7e3c7e6fb8f0c983929bda0a281a8d18efe91)
+""",True,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,b88e6a1a3e700c0c36522b64474b5df624bcc527,"""Removes outdated dependency to org.apache.io lib.
+""",True,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,3384d37a5254d5b232d2912ad67988ff505fb263,"""Fix error while restoring UI state if memento files are not present.
+
+If the Eclipse IDE is started the first time with internationalization support",False,False,True,tapiji,False,True,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,8cd014851fb7a6e488abe13f495bd02b9c80e003,"""Fixes bug in I18nBuilder.
+
+If a full build is triggered",False,True,False,tapiji,False,True,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,7c2269be58efdf853a632bbb67b2d4f2f42f9786,"""Removes outdated dependency to org.eclipse.pde.core from the message editor's core plug-in.
+(cherry picked from commit 1cb6c1c78aa88192b2a65c93ef3689d38cdf539c)
+
+Conflicts:
+
+	org.eclipse.babel.core/META-INF/MANIFEST.MF
+""",True,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,fd80155a60d24bee03f7ca0ebeca8d564c87e763,"""Cleans up build scripts.
+(cherry picked from commit 217a1d57903e87fc44a3ece7a69940943f33cb9f)
+
+Conflicts:
+
+	org.eclipse.babel.core/src/org/eclipse/babel/core/message/resource/ser/PropertiesDeserializer.java
+	org.eclipse.babel.editor/build.properties
+	org.eclipse.babel.tapiji.tools.build/build/maps/tapiji.map
+""",True,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,04c30d52addc9204dcf0c535de49bb2d912259c3,"""Cleans up build information for the tool suite's core plug-ins
+(cherry picked from commit 7aecbae043424f907a2445c85e9f98b1ecaa8792)
+
+Conflicts:
+
+	org.eclipse.babel.tapiji.tools.core/build.properties
+""",True,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,ee5cfd67bbc391debc3e80baffc322f9aa4961ca,"""Defines build process for babel tool suite
+(cherry picked from commit 263c922fbabc49b79e1f4253a271fe842307aa27)
+
+Conflicts:
+
+	org.eclipse.babel.tapiji.tools.build/build.properties
+	org.eclipse.babel.tapiji.tools.build/customTargets.xml
+""",False,False,True,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,fc189d16c1df40cee26e19fcec95cecf2d93d875,"""Adds build support using tycho and maven
+
+This changeset adds the following new projects:
+ * `org.eclipse.babel.tapiji.tools.parent`: Encapsulates the root pom file for maven and all commom pom settings
+ * `org.eclipse.babel.tapiji.tools.target`: Specifies the target platform used for building the babel tool suite
+
+Moreover",False,False,True,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,001f4f784c7da790e303e8af39e18b1b9e563f9e,"""Clean up of maven pom configuration
+(cherry picked from commit d2988fea31413ad82247042a9c87070dbb02776d)
+""",True,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,5392bbbfc10ba4e8ef8058ef3abe122c5963d8fb,"""Removes outdated PDE build project
+
+The PDE build based buildscript project is outdated now. It has already been replaced by a tycho based build approach. This change removes the outdated project files.
+(cherry picked from commit 40ac64a981cd719c07a30eb2bbb0c67a4e82a1a0)
+""",True,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,cd5ecbb4afca154d3a6a3485198c2dd4f33224b4,"""Adds missing about.html and epl-v10.html files
+
+Moreover",True,False,False,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,910b7e5bf582c4a6bb8a55bc2129a968e0aacb64,"""Lift root pom into the repository root directory.
+
+Provides a more transparent architecture for tycho build scripts. Moreover",False,False,True,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,9ff594fefd42a9a3e0f3c8fc442910e7d4df6223,"""Adds missing license headers and lifts epl-v10.html from project scope to repository scope
+
+According to the guide for legal documentation missing license headers have been added. Moreover",True,False,False,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,215f988c8b38f13d6d0b8cba9985d670ba4cc2cb,"""Clean up build.properties files
+(cherry picked from commit 37533f23fb71c70eab08d9f1de091fcae1b0c400)
+
+Conflicts:
+
+	org.eclipse.babel.editor.nls/build.properties
+	org.eclipse.babel.tapiji.tools.core/build.properties
+""",True,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,3d1b29b41b22677fcdc47ec9631e15b973ca3d62,"""Defines a team working set for """"TapiJI Tool Suite""""
+""",False,False,True,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,29214d2b1a4379f7437178b7ed81360e4da066ac,"""Fix wrong reference in team project set
+""",False,True,False,tapiji,False,True,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,838009943d082216c5b1b015c644617692d7059c,"""Remove projects that have been contributed to the eclipse babel technology project
+""",False,False,True,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,036ab9cecae204dcdc7e18fc7c36d3687b5f8e8d,"""Add rbmanager.ui to tools team project set
+""",False,False,True,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,f6d8ce0ddb06773f1b9a269bdb94ac8840673d82,"""Prepares maven pom files for building tapiji translator (RCP)
+""",False,False,True,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,baa11dd552580abb28431ba890e7c3a90363da5d,"""Consistently remove remaining JDT dependencies from the RCP translator's product definition
+""",False,False,True,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,c132766c3a12ae98d3892c2470da7336cd5a35cf,"""Remove remaining dependency to pdeutils from the RCP translators product definition
+""",False,False,True,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,ee812eba6928ff73f60a528377ddf33e8965c84c,"""Cleans up the RCP translators product definition
+""",True,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,3c95d97b0eb464b6788466769919deea219ce24a,"""Provide target platform for building rcp translator
+""",False,False,True,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,a92b8be52c5ec435dfb2b1576890ebc80c951c03,"""Cleans up rcp target platform
+""",True,False,False,tapiji,True,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,d7217260578f7fce07eed94e33ede6ea1da01284,"""Adds multi-platform dependencies to rcp translator product definition file
+""",False,False,True,tapiji,False,False,True
+https://code.google.com/a/eclipselabs.org/p/tapiji/,fbb645beca490238e4ed849142d96e18def15e86,"""Adds product icons for RCP translator
+""",False,False,True,tapiji,False,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,f7de5d7fc5ac956afa63b91a62173dddcea902ea,"""Removed CDO dependency
+""",False,False,True,mylyn-reviews,True,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,95c114f2692ca7fdc187d2f167b76f90975e1ead,"""Fixed bundle names and license information
+""",True,False,False,mylyn-reviews,True,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,395b43d62ec11bacbf636bdd3a55151e936a569c,"""Added update site
+""",True,False,False,mylyn-reviews,True,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,dabca506b7b4a7aa200cf7a81dcb290aa6b5b5eb,"""Removed CDO from the UI project
+""",False,False,True,mylyn-reviews,True,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,62a5d99c731b3ad33f4657f1ad6b9bac90fb4203,"""317535: Dynamically add parts to any part (319357)
+
+added a prototype for marking tasks as reviews (see bug 317867)
+added PartAdvisor implementation which removes uninteresting parts from the task editor and adds the review part
+added a ReviewDataManager",False,False,True,mylyn-reviews,False,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,f41da907ceae1167b6e3228bfc613039ff329000,"""321269",True,True,True,mylyn-reviews,False,True,True
+https://projects.eclipse.org/projects/mylyn.reviews,aeda373e85a6dacc6ee4db762184d229739af7fb,"""317535: Fixed a bug preventing submit
+""",False,True,False,mylyn-reviews,False,True,True
+https://projects.eclipse.org/projects/mylyn.reviews,b492b73284ef5080274716132406b765d5e47ea0,"""322734: UI Rework
+- review results drop down
+- review summary drop down""",True,False,True,mylyn-reviews,True,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,e1484ccac929d9662731d4f5e941ca6b49c20b70,"""322734: Force synchronization after submit
+""",False,True,False,mylyn-reviews,False,True,True
+https://projects.eclipse.org/projects/mylyn.reviews,6ecd0a21f1545357c3bd8e9b4a161f158c8d11eb,"""322734: review type identification fallback
+""",True,True,False,mylyn-reviews,False,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,5f232224c4de92467c4de6385590ec19e0568ba5,"""322734: Display just the last review result for a task
+""",True,False,False,mylyn-reviews,False,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,37a3414cd78d97ecbf2aa012579eda615054ba86,"""322734: Re-Added comment comment part
+""",True,False,False,mylyn-reviews,False,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,83ade7b96fd5866d48973460ff8a71efca685366,"""322734: Force synchronisation after submit
+After submit the task editor still shows no attachment an thus no review section.
+After synchronize the task the attachment and the review display correctly.
+As a workaround force the synchronization of the task and re-open the editor.
+""",False,True,False,mylyn-reviews,False,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,fdca041d78e409a32454ea0afa94eacedfc30ef6,"""322734: display review task without result in summary table
+""",False,False,True,mylyn-reviews,False,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,2c653b7fb8844ba81fbfc55e9b76827e01969763,"""322734: Load review data from remote task
+""",False,False,True,mylyn-reviews,False,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,c0bae1256c20ddb0c76da865f2c0470fb0b1db1c,"""322734: Avoid exception",False,True,False,mylyn-reviews,False,True,True
+https://projects.eclipse.org/projects/mylyn.reviews,4752b97832f0395dcb984872cdc40370043445dc,"""322734: Submit of changed reviews
+""",False,False,True,mylyn-reviews,False,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,e38e4ea7a76d42692453be0288d8cf101e13fd52,"""322734: Label for review rating and comment
+""",False,False,True,mylyn-reviews,False,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,13c851fc730cc900605f28582caeb12b8dcc89d9,"""322734: Open Review Compare in another editor
+""",False,False,True,mylyn-reviews,False,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,859f9b8494cb6c7fec7f9b803bc975e7fb3b8ab4,"""322734: Renamed part/section to review
+""",False,False,True,mylyn-reviews,True,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,8d62686d2a5e00f381a2b333b05c4fd70bf8ffb4,"""322734: changed labels",False,False,True,mylyn-reviews,False,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,18f85bef4bf10e47cc314f71c302dd3b19f6797a,"""322734: File table spans whole width
+""",False,False,True,mylyn-reviews,False,True,True
+https://projects.eclipse.org/projects/mylyn.reviews,30209c4c9a736fd937ecc7df25b5fb1ce893ae6f,"""322734: Result types in section text
+""",False,False,True,mylyn-reviews,False,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,49afb44009133c40ece7c9d514364b9e779a8efe,"""Moved """"tbr"""" to subfolder
+""",True,False,False,mylyn-reviews,True,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,e9f46afa47e9b7c0d7aaf90568237d35a76e9535,"""Moved """"tbr"""" to subfolder and added folders for other projects
+""",True,False,False,mylyn-reviews,True,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,c7a5de087b31e9b4e11752818526b45ad3154915,"""331862: Move review parts back to seperate page
+
+-Deleted old advisors
+-Changed mylyn.tasks.ui dependency to 3.4
+-Added old PageFactories and Pages
+-Removed old unnecessary dependency
+-Initial import of review dsl
+-Cleanup reviews.core
+-Removed old reviews model
+-Removed old code
+-Development",True,False,True,mylyn-reviews,True,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,ad310d60e3e1d1c6ad6495af087dc19dc8ea02f2,"""Allow multiple attachments for review
+""",False,False,True,mylyn-reviews,False,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,deb17da4bbf1ddd29c88d7f0b39718c5c4473687,"""Hierarchical review scope
+
+- scope table is now a tree.
+- review section will be automatically collapsed if no scope is found.
+- refined descriptions and types for scope items
+""",False,False,True,mylyn-reviews,False,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,c1dcdf131031ab6903abf399a710744bae53f239,"""Cleanup
+
+-Renamed interface ReviewScopeItem
+-Moved xtext setup to core
+ -removed now unecessary dependencies in ui
+""",True,False,False,mylyn-reviews,True,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,fc1965d648bf40466b46770bad874de80c480dd4,"""Merge branch '331862_move_review_parts'
+""",True,False,False,mylyn-reviews,False,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,2ba191b5217e14fa96ee37e65bec1100b1ff14ce,"""Fixed task mapping of results
+""",False,True,False,mylyn-reviews,False,True,True
+https://projects.eclipse.org/projects/mylyn.reviews,1d094212644335939789becb2b8c36e471ce3e12,"""Updated DSL to cover updated scopes
+
+-changed DSL
+-adapted ReviewTaskMapper to add all additional items from changed scopes
+""",False,False,True,mylyn-reviews,False,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,8bba1e439e933b716ce64a8f029c3e84ed5a2d18,"""ReviewScope is optional
+""",False,False,True,mylyn-reviews,False,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,21cad21f6765e2af1b6faf3d1e716cb9860d433f,"""Removed stderr output
+""",True,False,False,mylyn-reviews,True,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,81aa854e7fc6cda7ff390112c436f3644181dc81,"""Enabled opening the corresponding task for a result node
+""",False,False,True,mylyn-reviews,False,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,ceb5861998de2e1a07a7279d3f1d26ecfb2c2dca,"""Simplified some column handling logic
+
+-avoid repetition of column handling",True,False,False,mylyn-reviews,True,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,a97d51e05efd366c7bfc4d52c12fa757c1495a56,"""332591: hide internal api for tbr ui
+""",True,False,False,mylyn-reviews,True,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,b3a51c94ab0a44a22874fc835c772a26abaaebd3,"""Merge branch 'master' of git://git.eclipse.org/gitroot/mylyn/org.eclipse.mylyn.reviews
+""",True,False,False,mylyn-reviews,False,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,b72e82bf7f499f2779b5c944fa19bd154e881537,"""Merge branch 'master' of git://git.eclipse.org/gitroot/mylyn/org.eclipse.mylyn.reviews
+""",True,False,False,mylyn-reviews,False,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,5bc30fcc6c587c5b4581fbcc772cb4625edf2d4c,"""Merge branch 'master' of git://git.eclipse.org/gitroot/mylyn/org.eclipse.mylyn.reviews
+""",True,False,False,mylyn-reviews,False,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,bbf0610c6b4e6989d975bfcfd9e1fec60e863b34,"""Merge branch 'master' of git://git.eclipse.org/gitroot/mylyn/org.eclipse.mylyn.reviews
+""",True,False,False,mylyn-reviews,False,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,9b3f4a6d22953f29e9e4f11bcfbc28a4c4145e62,"""Merge branch 'master' of git://git.eclipse.org/gitroot/mylyn/org.eclipse.mylyn.reviews
+""",True,False,False,mylyn-reviews,False,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,52d77a2cdf87324be66210b84084bfc19b96b892,"""Merge branch 'master' of git://git.eclipse.org/gitroot/mylyn/org.eclipse.mylyn.reviews
+""",True,False,False,mylyn-reviews,False,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,dde07c616e4a0e866a0d7f0bc3f63979fc571d08,"""Merge branch 'master' of git://git.eclipse.org/gitroot/mylyn/org.eclipse.mylyn.reviews
+""",True,False,False,mylyn-reviews,False,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,40c30c0430a3938a71d3d94df20255a8c9898218,"""Merge branch 'master' of git://git.eclipse.org/gitroot/mylyn/org.eclipse.mylyn.reviews
+""",True,False,False,mylyn-reviews,False,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,eb0a1bebaa1486ab4d2af4dccf40aea7f8f1d5dd,"""Merge branch 'master' of git://git.eclipse.org/gitroot/mylyn/org.eclipse.mylyn.reviews
+""",True,False,False,mylyn-reviews,False,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,c0d8a840624ff68457c5a9da38e39e19fefe9db1,"""Changeset based reviews
+
+-Adapted dsl to review changesets
+-Added extension to experimental versions changeset list on a seperate page
+-Fixed error in dsl
+-Fixed copyright headers
+""",False,True,True,mylyn-reviews,False,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,f376424150d1f80ead2e64e108ec3d0d246da553,"""Removed unused plugin.xml from tbr core
+""",True,False,False,mylyn-reviews,True,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,ff80712d74ae5da0a66db6098b22a028439146c2,"""Enhanced formatting of dsl
+""",True,False,False,mylyn-reviews,True,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,61c86d94ddb0ca3be328ea8e07120a595a597665,"""Minor cleanup
+
+-Added correct version for version-tasks
+-Fixed author name
+""",True,False,False,mylyn-reviews,True,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,5fe6054a3835b11a4432e3da770f779183de4291,"""Minor cleanup
+
+-ignore warning about internal api
+-minor reformatting
+""",True,False,False,mylyn-reviews,True,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,012a420f27f81934ce7d183f024bcbe0ba0edeb2,"""Changeset based reviews
+
+-added scope item and review file implementations
+""",False,False,True,mylyn-reviews,False,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,35c49ea2db324c527a45be9a219cc05f2a718950,"""ANTLR based dsl implementation
+
+removed existing xtext based dsl and replaced with antlr impl.
+""",False,False,True,mylyn-reviews,True,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,454302cf65c3c617149f28aee819549dd02f3680,"""Move versions-task bridge to reviews
+""",True,False,False,mylyn-reviews,True,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,f5cca8bce1fb55eab4ee72aab1654522f60a141d,"""Removed xtext dependency fragments
+""",True,False,False,mylyn-reviews,True,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,c0e6bbe105a34e9effb8674d5611a9ea9bb6f32e,"""Removed TBR site
+""",True,False,False,mylyn-reviews,True,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,872fb98aed24bbfc6a15e7d14f1e2da61487e589,"""Changed versions task bridge feature ids and name
+""",True,False,False,mylyn-reviews,False,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,45beae1dac0ee69bffc6c3d8029e2c11c9fecf09,"""Include TBR and Versions in build
+""",True,False,False,mylyn-reviews,False,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,e4c27097b8e3b8ba00b731ff4d134e4e4cb71d94,"""ANTLR Dsl Cleanup
+
+Ignore recognition errors from lexer/parser
+Prevented NPE
+""",False,False,True,mylyn-reviews,True,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,3e0502ea86cfb48d8fe1e1b117781491499b4e00,"""Fixed versions parent
+""",True,False,False,mylyn-reviews,True,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,7dab4986c80921d6d9ed7a93f7145c9592701678,"""Removed TBR from the build
+""",True,False,False,mylyn-reviews,True,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,64b71912f58781431f08455d51b07676f9bf122e,"""TBR: Fixed artifact ids in pom
+""",True,False,False,mylyn-reviews,True,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,1f6e2f3e113c8162aa40e6c8a09ac3917c6d3ecf,"""Removed feature for versions
+""",True,False,False,mylyn-reviews,True,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,ada6a264c633c80c1bf71b1767831dad2d88e7bf,"""Moved versions-task plugins to TBR
+""",True,False,False,mylyn-reviews,True,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,7ddaefd93623be193d76c9a9397e978330cc2ee1,"""334692 fix compile errors on Indigo and include TBR in headless build
+""",False,True,False,mylyn-reviews,False,True,True
+https://projects.eclipse.org/projects/mylyn.reviews,e23873e4201e5e64884df41c1eb9dfb5b08af103,"""339480 Set execution environment to java 1.5
+""",True,False,False,mylyn-reviews,True,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,06058e47d3b42f059340b6e3e4a1156c1fc76036,"""342870 TBR extension point für task changeset mapping
+
+Initial implementation of the extension point and generic implementation.
+""",False,False,True,mylyn-reviews,False,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,74c7d6e7ed1ec3eb4e2f20f6790d9aedb8cd01d5,"""342871 Fix findbugs warnings
+
+Fixed all findbugs warnings reported in last build
+""",True,False,False,mylyn-reviews,True,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,c08f138d97f6a699bfa345d849e70a13e1646d30,"""bug 376191: NPE when opening reviews page
+
+fixed access of map entry
+
+https://bugs.eclipse.org/bugs/show_bug.cgi?id=376191""",False,True,False,mylyn-reviews,False,True,True
+https://projects.eclipse.org/projects/mylyn.reviews,4949b0b149c0847e67ae3395be23da4da4fd827c,"""bug 376192: Fixed error when creating a new review
+
+use addItem method instead of getList().add
+
+https://bugs.eclipse.org/bugs/show_bug.cgi?id=376192""",False,True,False,mylyn-reviews,False,True,True
+https://projects.eclipse.org/projects/mylyn.reviews,9336aa98be352d2353a614009b615929ff4f9d77,"""Minor bugfixes",True,True,False,mylyn-reviews,False,True,True
+https://projects.eclipse.org/projects/mylyn.reviews,130a91a2d393bc9a0128cc2fafa3e52c6528e005,"""bug 380843: index commit messages of changesets
+
+Added an initial implementation of an index for the scm repositories.
+The commit message",False,False,True,mylyn-reviews,False,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,68302d9b31f48a7ae68109a651054bbd64546956,"""Refactoring
+
+- splitted several classes in smaller parts to improve testability
+- added some javadoc and tests
+
+Change-Id: Ic403f614c1a6ebdc2c89994e22ae01becca10e62
+""",True,False,False,mylyn-reviews,True,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,1e7118488498b508c447c1abc5ded02d7c6f16d1,"""bug 380843: index commit messages of changesets
+
+use iterator function to retrieve the changesets
+added some more null checks
+
+https://bugs.eclipse.org/bugs/show_bug.cgi?id=380843
+
+Change-Id: I3484580c00372fd9276653e46ea8f552272af27f
+""",False,False,True,mylyn-reviews,False,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,10d01bb9da84d588f57a824ef9dc048562af2f7a,"""bug 386204: Allow users to include subtasks in changeset view
+
+Refactored part and introduced a model",True,False,True,mylyn-reviews,True,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,1eac0a7cdb214d084934cbe159af7a1803486f14,"""390767: Create context from changesets
+
+added internal extension point for contributing actions to the
+changesets list.
+added a new plugin",False,False,True,mylyn-reviews,False,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,d3ec4cab768b7062fa7625d623402f25f349028c,"""380843: index commit messages of changesets
+
+Created custom filter for changesets",False,False,True,mylyn-reviews,False,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,3d53bdc3d320973bcb0ca67047a59e0e58cee0b3,"""cleanup warnings
+
+* Fix build path issue
+* Minor Cleanup for Action
+
+Change-Id: I4e4bda10624e16d4f69545a953ae80d84939c1dd
+""",True,False,False,mylyn-reviews,True,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,bbac34179e1ce5b7a136b4b5ebc6101dfb3eb65d,"""Fix broken test
+
+Change-Id: I15affe2d03ac77ff86e8f2ac01dde6539f6a64d9
+""",False,True,False,mylyn-reviews,True,False,True
+https://projects.eclipse.org/projects/mylyn.reviews,e643613f8cc3eb0f1e892c955027003a7d515061,"""fix tycho build errors
+
+Running the test failed",False,True,False,mylyn-reviews,False,True,True
+https://projects.eclipse.org/projects/mylyn.reviews,464fd741533548c6fec7393299185c293de0d862,"""392682: Show details for changesets
+
+Use the ScmConnectorUi to open the correct view for the connector
+
+Task-Url: https://bugs.eclipse.org/bugs/show_bug.cgi?id=392682
+Change-Id: I98a778a7dc0edc1497194bc018536236f4f93382
+""",False,False,True,mylyn-reviews,False,False,True
+https://deltaspike.apache.org/,1ce6024ca013dfa5af574640a16732cf0b8f3459,"""DELTASPIKE-266 remove obsolete comments
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,b0caefee80a42d6737b3a255316487b668fab104,"""DELTASPIKE-278 add category to Message API
+""",False,False,True,deltaspike,False,False,True
+https://deltaspike.apache.org/,279d85bb562cc3dd2b20549d037f9ef44ffdbcff,"""DELTASPIKE-278 remove unecessary checks for Message return values
+
+Why should we restrict the return value?
+""",False,True,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,8e593fdf24a9af820af9cead5dc0630891905f76,"""DELTASPIKE-278 implement the category resolving and add tests
+""",False,False,True,deltaspike,False,False,True
+https://deltaspike.apache.org/,737771ba18bca7bdd3e8684f06f127b6f16f6e18,"""DELTASPIKE-277 add JsfMessage API
+""",False,False,True,deltaspike,False,False,True
+https://deltaspike.apache.org/,66fcfd7c5de57d6771ceb433c54458ae4ac021d3,"""DELTASPIKE-280 register resources under their full path
+""",False,True,False,deltaspike,False,True,True
+https://deltaspike.apache.org/,2999b9f3a88b78bd9acb43fee50ce20bd6583f0d,"""DELTASPIKE-274 fix remote container tests
+""",False,True,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,de286e000716ec9057dfdaefeeda91d34be22d64,"""DELTASPIKE-277 add first API draft
+""",False,False,True,deltaspike,False,False,True
+https://deltaspike.apache.org/,1b151a09c325678754ca3b0683dcd37611212275,"""DELTASPIKE-277 first version of a JsfMessage implementation
+""",False,False,True,deltaspike,False,False,True
+https://deltaspike.apache.org/,a8a2815cdf14fbcc8854338bf98e344f7b4f149c,"""DELTASPIKE-266 refactor JSF test setup
+""",False,True,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,48694d0bba7f6756c0b2396ca32d6aee1bfad2e4,"""DELTASPIKE-277 improve graphene setup
+""",False,True,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,42fa86735cb89bdde76545946d154c045513c12b,"""DELTASPIKE-277 fix JsfMessageProducer
+""",False,True,False,deltaspike,False,True,True
+https://deltaspike.apache.org/,bfbc5024840ee4f60d52377b1192d8650451cb13,"""DELTASPIKE-277 add missing beans.xml
+""",True,False,False,deltaspike,False,True,True
+https://deltaspike.apache.org/,497c7441ad1370b383d3c00c614d32dec4ef1952,"""DELTASPIKE-277 fix JsfMessageProducer type detection
+""",False,True,False,deltaspike,False,True,True
+https://deltaspike.apache.org/,53b3787e247759a4711bd3ebe8968b830f27711a,"""DELTAPIKE-277 first warp test for JsfMessage
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,1bd79c9c07207723373bde7aa1031285057248ef,"""add tomee build leftovers to .gitignore
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,649a65fae047377bf52978ef47f3d50020f1c048,"""DELTASPIKE-277 create a proper unit test and remove unused imports
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,77e111dc3131b44bd7ef9edca5fd31dd2e27e67a,"""DELTASPIKE-277 fix missing license header
+""",True,False,False,deltaspike,False,False,True
+https://deltaspike.apache.org/,c2951e9c0fe94dbf2c000183a8721f6606a69ffc,"""upgrade Arquillian Drone to 1.1.0.CR3
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,c3364f21f8e1908fe19a910c1ebd27392f1afdb0,"""enable checkstyle reporting on the commandline
+
+catched by Arne
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,37ebe0b3c428cd64734a3dd3eee4d94a3f715e26,"""DELTASPIKE-281 add LocaleResolver for JSF projects
+
+if a ViewRoot is available",False,False,True,deltaspike,False,False,True
+https://deltaspike.apache.org/,9682dce0f487902ea1bf607641c502dc77ed0506,"""DELTASPIKE-281 add unit test and fix some bugs in the locale mechanism
+""",True,False,False,deltaspike,True,True,True
+https://deltaspike.apache.org/,9f3095892e2f404db70063380a02f78e41271a7c,"""CDI-279 add a unit test for our JSF-2-CDI scope mapping
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,1bf160a0415dc5838b0eeee9ef92faf152c8c04c,"""upgrade to more recent weld-arquillian version
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,5df2cde8e95c496ed4c61bd1df5f3a0e12e7e6e9,"""move properties section to the top of the pom
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,44d520ccdb14fce22413efe7e76daa8b1c3d6442,"""upgrade tomee and openejb to released versions
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,80e3ad203c023306e35ba11a7353c5c1435d4b8a,"""get rid of empty if statement
+""",False,True,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,75715abbd581de8e92e146c373964d75772df6d1,"""DELTASPIKE-80 fix concurrency/visibility issue
+""",False,True,False,deltaspike,False,True,True
+https://deltaspike.apache.org/,4600b51887de35647220ca47fa1a09042db2cb52,"""DELTASPIKE-286 Comparators should be Serializable
+""",False,True,False,deltaspike,False,True,True
+https://deltaspike.apache.org/,0338b71df28dc82f5bbb6aa777f51809549dffeb,"""DELTASPIKE-241 new weld-arquillian container fixes BDA issues
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,ac2f8f35e385c6962c99b5ea2ab57eab73694753,"""DELTASPIKE-289 add WindowContext API draft
+""",False,False,True,deltaspike,False,False,True
+https://deltaspike.apache.org/,426b094ec7683cd482b87ff7fe102a005ff1dac3,"""DELTASPIKE-278 use '_' as category separator
+
+This got done to unify this with the default JSF '_detail'
+handling. So we moved from '.' as separator to '_'
+""",False,True,False,deltaspike,False,False,True
+https://deltaspike.apache.org/,34c03c374dd3a5497a154fc311958915f0d63b78,"""DELTASPIKE-277 JsfMessage will now return the Message parameter directly
+
+Previously we always did toString() internally. But that prevents
+people from using the Message return value
+""",False,True,False,deltaspike,False,False,True
+https://deltaspike.apache.org/,4804e610fca59b7e81b9e7a31ab7441fd47465e0,"""DELTASPIKE-289 add WindowScoped and initial Context handling
+""",False,False,True,deltaspike,False,False,True
+https://deltaspike.apache.org/,c556f1fbabca3faedb55f3e05531d2ca9daa517a,"""DELTASPIKE-289 JavaDoc + make unit tests fit api packages
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,4916128227c75b9ead023d37ba86a2685aebf62c,"""DELTASPIKE-289 enable WindowContext via Extension
+""",False,True,False,deltaspike,False,False,True
+https://deltaspike.apache.org/,950225ed644937af40685339d143bd5da1c1e96d,"""DELTASPIKE-312 add JavaDoc warning for @Alternative scenarios
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,c2d25218b429e6041c3652025788701e795db22e,"""DELTASPIKE-312 remove GlobalAlternatives handling for OWB and fix tests
+""",False,True,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,55e73275ec32b059968a12b20190262ce5db1209,"""upgrade owb.version to 1.1.7 which is the latest released version
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,32151ae7ab34f9df07340ad150b2920f128186e2,"""DELTASPIKE-312 introduce openejb.owb.version
+
+This allows to fix the OWB version used for the cdictrl-openejb build using
+-Dopenejb.owb.version=1.1.7
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,de9c73d84625565731b5b92f0534ca1a09b032df,"""DELTASPIKE-157 log Test Class for @Deployment
+""",False,True,False,deltaspike,False,False,True
+https://deltaspike.apache.org/,e4e85d3facf1633ea6a058d186dfbcf75f3e3a07,"""DELTASPIKE-315 provide common EntityManagerFactoryProducer
+""",False,False,True,deltaspike,False,False,True
+https://deltaspike.apache.org/,4f8fa5ff72b1ae2ef4a5c2e4be4f9c8f749da9bb,"""DELTASPIKE-315 add more JavaDoc
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,40aa7b628bdc0237603f2282430947a49e515862,"""DELTASPIKE-315 fix broken package move
+""",False,True,False,deltaspike,False,True,True
+https://deltaspike.apache.org/,be1fd862f67623f2d69a87445a777486f1c84e9e,"""DELTASPIKE-318 disable auto-scanning of bootstrap chain for OpenEJB starting
+""",True,True,False,deltaspike,False,True,True
+https://deltaspike.apache.org/,4a8ab4863510faef2cf81d887b63a80bce7b2830,"""upgrade copyright to 2013
+""",True,False,False,deltaspike,False,False,True
+https://deltaspike.apache.org/,ae8e604436ac52b99a5fbacfce93da1186445b2f,"""DELTASPIKE-318 remove workaround again.
+
+This got properly fixed in OpenEJB.
+See TOMEE-840 for more information
+""",False,True,False,deltaspike,False,True,True
+https://deltaspike.apache.org/,183a92087fbe62f57cda2450a1c603eeaa398776,"""DELTASPIKE-273 fix JavaDoc
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,f9fdb6db4945ccf20ce056399ccfa07a8d46e14b,"""DELTASPIKE-330 adjust scoping for Window infrastructure classes
+""",False,True,False,deltaspike,False,False,True
+https://deltaspike.apache.org/,4cfe0112b339e227fb89d55ea870eed39c009f9e,"""update javadoc
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,19cb8aa1cd8c12078dc462eb7769928837c2a966,"""DELTASPIKE-339 re-apply jndi name in exception
+
+we need this info for detecting issues
+""",False,True,False,deltaspike,False,True,True
+https://deltaspike.apache.org/,34d6a1696206e011e698fd74c2b75bc968c9384d,"""DELTASPIKE-229 improve WindowContext handling
+""",False,True,False,deltaspike,False,False,True
+https://deltaspike.apache.org/,412fc078b9634cf659e11c63cb1a07c7eb385e40,"""DELTASPIKE-339 revert to gerhards version
+
+Now I know why gerhard fixed it that way... ;)
+""",False,True,False,deltaspike,False,True,True
+https://deltaspike.apache.org/,9ef7a9c6df9d0e7398c838de6a284fb141a86cf4,"""DELTASPIKE-344 provide getContextualReference with a BeanManager param
+""",False,False,True,deltaspike,False,False,True
+https://deltaspike.apache.org/,32b5ef9df68ad121ed7bb3f790a36b074d103117,"""DELTASPIKE-289 controllable WindowContext
+""",False,False,True,deltaspike,False,False,True
+https://deltaspike.apache.org/,ac93bc54a2c1a7b17d3a0b57fc9a24ec9d334c78,"""DELTASPIKE-289 WindowContext cleanup
+""",False,True,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,ff5df7d320c9819754586497eb36a07a2d384652,"""DELTASPIKE-289 implement ClientWindowConfig
+
+This can be used to determine the window handling behaviour
+for each request.
+""",False,False,True,deltaspike,False,False,True
+https://deltaspike.apache.org/,30661b0551940cf7e40b3db2dd3263b3d8b23c2a,"""DELTASPIKE-289 add postback handling for windowId
+""",False,False,True,deltaspike,False,False,True
+https://deltaspike.apache.org/,45770596d64be289e202339bbc02ebb22aed3758,"""DELTASPIKE-289 migrate windowhandler from CODI
+""",False,False,True,deltaspike,True,False,True
+https://deltaspike.apache.org/,aded57f8faa5c23934839ac6b44e1376ea99c07b,"""DELTASPIKE-289 windowId detection code with JavaScript and intermediate page
+
+partly ported over from MyFaces CODI",False,False,True,deltaspike,False,False,True
+https://deltaspike.apache.org/,6dacff805964cca70c4f8ce0a2c3e65c946fca9e,"""DELTASPIKE-289 exclude lifecycle execution if ClientWindow page gets rendered
+""",False,True,False,deltaspike,False,False,True
+https://deltaspike.apache.org/,bb85cacf9358f9ed289e72a416e78625fcab18a4,"""DELTASPIKE-289 fix WindowScoped context test on jbossas
+
+I recently removed the <h:form> which did lead to a different
+component Id for the outputValue. fixed now.
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,2b0f0fa30f2ed20965abbf0caf4b1e00d57b4f37,"""DELTASPIKE-348 prepare for more ClientWindow samples
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,cb8c0861e16bbab6ad11d1dc2b1820d054aa2fba,"""DELTASPIKE-356 fix @Dependent handling for MessageContext
+""",False,True,False,deltaspike,False,True,True
+https://deltaspike.apache.org/,b43b71208e28d02ec1f07b4761195d66ba4337e8,"""DELTASPIKE-354 prevent NPE when passing null to a @MessageBundle
+""",False,True,False,deltaspike,False,True,True
+https://deltaspike.apache.org/,709fdb7cd7fc20abd151b1a92a7c9021553e5924,"""DELTASPIKE-363 prevent NPE at shutdown
+""",False,True,False,deltaspike,False,True,True
+https://deltaspike.apache.org/,7aea840155ec68cb9386b415ca59cfd1c76a62fe,"""DELTASPIKE-355 add Alternative MessageInterpolator using MessageFormatter
+
+Simple add an <alternative> to your beans.xml where you gonna like to use it.
+""",False,False,True,deltaspike,False,False,True
+https://deltaspike.apache.org/,acc6c73680f4f2fb0b13c9a4b429d995035a34c7,"""DELTASPIKE-356 fix JsfMessage which I broke with the refactoring
+""",False,True,False,deltaspike,False,True,True
+https://deltaspike.apache.org/,439a23d21eff5b4ff9ba58465be0bc54f305fedd,"""fix owb managed version handling for openejb
+""",True,False,False,deltaspike,True,True,True
+https://deltaspike.apache.org/,37653501dcfc08114bd23b6f4b9ec6f60b846b7a,"""DELTASPIKE-365 add a boot(Map) method
+
+This is needed to startup some containers with initial properties
+if they support it.
+""",False,False,True,deltaspike,False,False,True
+https://deltaspike.apache.org/,1fe1191dcc823281c2e2f857c24f3ee5c610b206,"""DELTASPIKE-289 add sample ClientWindowConfig
+""",True,False,False,deltaspike,False,False,True
+https://deltaspike.apache.org/,fc063b934666bbf12886cd1fd5f07d1b3c82dfa8,"""DELTASPIKE-367 upgrade to owb-arquillian-1.2.0-SNAPTHOT
+
+we finally need to upgrade to 1.2.0 but for now it's fine.
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,e56f26140787fbe76b3c155c0248558287370e2c,"""DELTASPIKE-208 explicitely enable global alternatives
+
+This now works on Weld",False,True,False,deltaspike,False,True,True
+https://deltaspike.apache.org/,15de1f5c92d90b583cce13d0bd7bda05d396adea,"""DELTASPIKE-367 upgrade to final owb-arquillian-1.2.0
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,17db0f11e85bb21def0af785e654db15120d874b,"""DELTASPIKE-339 don't lot the Exception as this is a normal operating situation
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,007474b2da61d4476d9386185ee942035039a7c7,"""upgrade version to TLP
+""",True,False,False,deltaspike,False,False,True
+https://deltaspike.apache.org/,fb8d629a3cd6ab77879cd6b821265ed423cb3f6c,"""add release notes for 0.4
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,3d8af1b1e6726cca4ecd7d087ec79eb1ff943aff,"""[maven-release-plugin] prepare release deltaspike-project-0.4
+""",True,False,False,deltaspike,False,False,True
+https://deltaspike.apache.org/,5bd1d57bffc98a94fe7c7687f85a0052de11ecfc,"""[maven-release-plugin] prepare for next development iteration
+""",True,False,False,deltaspike,False,False,True
+https://deltaspike.apache.org/,d7929a40521731c53f510996bf9918ff3b158e3d,"""DELTASPIKE-378 add ProjectStageAware property handling
+
+Main entry point for this feature is
+ConfigResolver#getProjectStageAwarePropertyValue
+""",False,False,True,deltaspike,False,False,True
+https://deltaspike.apache.org/,96d9ec7160efc69388bceb746898ea47311dd5f8,"""DELTASPIKE-378 more unit tests for geProjectStageAwarePropertyValue
+""",False,True,False,deltaspike,False,False,True
+https://deltaspike.apache.org/,7631ac6f526edf472d1383f7b82171c7ac29f0fb,"""DELTASPIKE-378 add getPropertyAwarePropertyValue
+
+feel free to propose a better name if you find one :)
+""",False,False,True,deltaspike,False,False,True
+https://deltaspike.apache.org/,4b636c8cebd3334d08ee8d8f0fa6b97a001fa217,"""general configuration section should go before executions
+""",False,True,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,f83662f51e2bbcb77a760d23695dda66fdfb6a11,"""DELTASPIKE-378 unify handling of defaultValue
+""",False,True,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,6fa6080e65f041a8f72dae9a831d2edab2770f43,"""DELTASPIKE-384 use getProjectStageAwarePropertyValue where possible
+""",False,True,False,deltaspike,False,True,True
+https://deltaspike.apache.org/,eb526e50a1925a11412e256f598ff787c42d2950,"""DELTASPIKE-375 improve performance and use internal ClassUtils common code
+""",False,True,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,9c301fc289a15a84552950737df03f9d0487150f,"""DELTASPIKE-382 add ConfigFilter mechanism
+
+This allows to filter DeltaSpike configuration values",False,False,True,deltaspike,False,False,True
+https://deltaspike.apache.org/,01b87451db42627e908f3f9c900aba9a7620f891,"""DELTASPIKE-386 use correct ClassLoader for loading the ResourceBundle
+
+txs to Richard DiCroce for the catch!
+""",False,True,False,deltaspike,False,True,True
+https://deltaspike.apache.org/,bba004602c091dbb5c1da4b7a1d05a0ef4e55c42,"""fix old TODO and use field injection of Extension.
+""",True,True,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,c1cb5145202335076ae00ea1630f92ea0e0efcee,"""remove useless TODOs
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,5b91442a260b42e3d47ef91a53015f2d0958a683,"""remove unused private field
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,6a3f2b45ebe4cb529b9a209105168c81252201bb,"""fix documentation for custom ProjectStages
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,2318498c7712a3147bdbd8145138ab8ff91a1772,"""removed obsolete TODO for Weld
+
+This scenario must not happen. The ClassLoader used to load
+the Extension is also the one used at shutdown. Even in EAR
+scenarios with a hierarchic setup we will hopefully get the
+correct TCCL. The mem will get freed up lastest after the EAR
+gets undeployed anyway. Sparse re-deployments of portions of
+an EAR are not guaranteed to work by the EE spec neither.
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,ec592a45194c1a126d861514e453ac9b7de7c5be,"""review old TODOs and remove them if not valid anymore.
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,7fd2d861fe8ce8e51f32d79b5192b144eb2f68ea,"""DELTASPIKE-397 handle hashCode",False,True,False,deltaspike,False,True,True
+https://deltaspike.apache.org/,6bb83374332a7506ecac4d688ea7f95db4aa8ee4,"""make sure our MessageBundle mesages are fully Serializable
+""",False,True,False,deltaspike,False,False,True
+https://deltaspike.apache.org/,cef50b097b3a9613534405f03c3b1e6aaa404f09,"""DELTASPIKE-398 add handling for @Dependent scoped beans.
+
+This is important as we need a way to properly destroy them.
+""",False,True,False,deltaspike,False,False,True
+https://deltaspike.apache.org/,744fa1046d5e930af976a313b02f427c4be6ac54,"""add comment about ALv2 license of this special hibernate part.
+""",True,False,False,deltaspike,False,False,True
+https://deltaspike.apache.org/,a421be8c740645d1c09402bdf94463b4319fcec1,"""DELTASPIKE-385 fix for getBeanManager for ClassLoaders which have not been used in Extension loading
+""",False,True,False,deltaspike,False,True,True
+https://deltaspike.apache.org/,170647869b279e735cefa4541d45510071989ac4,"""DELTASPIKE-401 change GlobalAlternativeTest to work w Weld and OWB
+""",True,False,False,deltaspike,False,False,True
+https://deltaspike.apache.org/,ea413ab4a18b4fdeb7e1166ee2e6edbdacf2b49c,"""DELTASPIKE-402 introduce a way to conditionally skip test based on cdi-container versions
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,ede53193d6eba06b1f3ee657cb5777f4ca2f8e76,"""DELTASPIKE-403 make MessageBundles PassivationCapable
+""",False,True,False,deltaspike,False,False,True
+https://deltaspike.apache.org/,ff62a1830a42026a2e6df146e6d91dd05f57af54,"""DELTASPIKE-402 use BeanProvider instead Instance<> to work around old OWB bug
+""",False,True,False,deltaspike,False,True,True
+https://deltaspike.apache.org/,258afc8c809f68bd1b530e115725e0bf511e02ca,"""DELTASPIKE-402 make DependentProvider Serializable (if possible)
+""",False,True,False,deltaspike,False,False,True
+https://deltaspike.apache.org/,b33e61cf7b3e2b2913062d7ff3c978ffadaca3c4,"""DELTASPIKE-402 cdicontainer.version for tomee via arquillian
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,878eab3a8ea7d76e0d0a2672882597e3a3dbeb78,"""DELTASPIKE-405 remove generics info from producer to match all injection points of this type
+""",False,True,False,deltaspike,False,True,True
+https://deltaspike.apache.org/,abccb450e65d2f38188911c4470a29240bb9292e,"""ignore log files
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,ce7f1b2f0c49c2c536f16595888caaf893108ee0,"""add small helper script to quickly verify most important scenarios
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,a37851c6aba102d30e6acc33ac5c2098af7ac3eb,"""DELTASPIKE-380 add javassist to @Deployment for some containers
+""",True,False,False,deltaspike,False,False,True
+https://deltaspike.apache.org/,5638a30b2ba14b9e590fa6f2d411a2810d23c21c,"""DELTASPIKE-405 revert back to <M>
+""",False,True,False,deltaspike,False,True,True
+https://deltaspike.apache.org/,53fbd0069652cfe101a2eba1c0f0849b35ff28c1,"""DELTASPIKE-60 minor JavaDoc tweaks
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,156c9987bf61d60b25226d08218bf26a766451de,"""add tail to show all build results
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,fac86445f596bd7d688b5a25ae1d61840bfd9ecb,"""fix broken unit test when testing remote containers
+""",False,True,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,1e963ac59cfb9250c735d13ef5b9c9f8bb1a549c,"""add  jbosas-managed-7 profile in ds-data
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,f3554235b3abb5b5820b57f932398af5a8846b32,"""adding release notes draft for upcoming deltaspike-0.5 release
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,28ca1132b913ee33d9f62689c859d847862c32c5,"""DELTASPIKE-380 also add javassist in wildfly
+
+txs to jharting for the patch.
+""",False,True,False,deltaspike,False,True,True
+https://deltaspike.apache.org/,727e12953e677fff6c14729a91ccf7a409c43644,"""add resolved issues to our release notes
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,912a6da51150ae5feed29b6d2045bbe06329b009,"""enable autoversioning of our submodules
+
+this flag has the effect that you only get asked for the versions once
+and not for each sub-module over and over again.
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,dffe4faa12ef455d5eec4ee29cdec839e041914e,"""[maven-release-plugin] prepare release deltaspike-project-0.5
+""",True,False,False,deltaspike,False,False,True
+https://deltaspike.apache.org/,f8936831eb13d17932a7f871faba0acbdfeb14bf,"""[maven-release-plugin] prepare for next development iteration
+""",True,False,False,deltaspike,False,False,True
+https://deltaspike.apache.org/,403ce94258a696dbf8377f5318183abef8248b78,"""DELTASPIKE-425 DependentProvider#destroy() must not destroy NormalScoped beans
+""",False,True,False,deltaspike,False,True,True
+https://deltaspike.apache.org/,be37dc6b9553008527eb8dec55a0ba91a4606448,"""DELTASPIKE-441 default implementation of a simple SecurityViolation
+""",False,True,True,deltaspike,False,False,True
+https://deltaspike.apache.org/,4c410f32f951085a0f03d256649c833cd00996a6,"""DELTASPIKE-442 improve PersistenceConfigurationProvider
+
+also implement PropertyLoader (taken from Apache OpenWebBeans)
+and tweak it to take ProjectStage into account.
+""",False,True,True,deltaspike,False,False,True
+https://deltaspike.apache.org/,562412bb4e5a0fb370951e054562b07e333c6fee,"""DELTASPIKE-445 add a few other known project stage config locations
+""",True,True,False,deltaspike,False,False,True
+https://deltaspike.apache.org/,b1cdf8765d0d958217fe65568631c4be776eaaba,"""DELTASPIKE-458 lookup UserTransaction via @Resource
+
+Fallback to JNDI only if the injected UserTransaction
+is not available (null)
+""",False,True,False,deltaspike,False,True,True
+https://deltaspike.apache.org/,e62058be691ad452be79c96d0738207d34d55ea3,"""DELTASPIKE-462 don't close the EM if we didn't open it
+
+This happens when we use BeanManagedUserTransactionStrategy
+and have a Stateless EJB call our transactional CDI beans.
+""",False,True,False,deltaspike,False,True,True
+https://deltaspike.apache.org/,a34a8ed3eeb5f8e95ee9b4432ece9d25ad266525,"""DELTASPIKE-507 fallback to TransactionSynchronisationRegistry
+
+txs to sstrobl for the patch
+also big txs to dblevins for the hint to this hidden gem.
+""",False,True,False,deltaspike,False,True,True
+https://deltaspike.apache.org/,4399428cdc7b00fb60da7dcc1fdcf8c8ace049ed,"""add DOAP file for DeltaSpike
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,406913cbae58424fb289535ba002933b5576f75c,"""DELTASPIKE-610 remove ConfigurableDataSource
+""",False,True,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,e698217a93e899e630cfef83124d727500735a8c,"""fix build of cdictrl-servlet for other profile containers.
+""",False,True,False,deltaspike,False,True,True
+https://deltaspike.apache.org/,50e3118098635261c57d3e959023e0c950fa8f09,"""add invocation for tomee-1.7.0
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,c32ece3060175565124ba73b8b54fea091803eec,"""fix JavaDoc - still did refer to old name of the class
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,3b0abce3ca9939dc953877cb06942bc716e82cfd,"""DELTASPIKE-745 add TCK test for parallel threads
+""",True,False,False,deltaspike,True,False,True
+https://deltaspike.apache.org/,8048657e265ab4f39b8b2e42425602bf151c7b91,"""DELTASPIKE-745 fix cdictrl-weld to be able to run on new Threads
+
+I also improved OWB ContextControl to behave the same as in weld
+""",False,True,False,deltaspike,False,True,True
+https://deltaspike.apache.org/,7a1c9837ef33b1a7ff3ac449c584f535f4c69857,"""DELTASPIKE-745 remove createContextControl and add more JavaDoc explaining the stateless nature of ContextControl
+""",True,True,False,deltaspike,True,False,True
