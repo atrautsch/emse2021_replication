@@ -15,12 +15,13 @@ The raw data used in this paper comes from a SmartSHARK database dump containing
 
 ### Restore MongoDB dump
 Download the database dump and import it into your local MongoDB. You may have to create a user first.
+While we have a dump that only contains our study subjects, the data is also contained in any official release > 2.1 of [SmartSHARK](https://smartshark.github.io/dbreleases).
 
 ```bash
-wget https://mediocre.hosting/smartshark_1_3.agz
+wget https://mediocre.hosting/smartshark_emse.agz
 
 # restore mongodb dump
-mongorestore -uUSER -p'PASSWORD' --authenticationDatabase=admin --gzip --archive=smartshark_1_3.agz
+mongorestore -uUSER -p'PASSWORD' --authenticationDatabase=admin --gzip --archive=smartshark_emse.agz
 ```
 
 ### Extract changes from MongoDB
