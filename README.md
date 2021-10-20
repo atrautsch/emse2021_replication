@@ -1,4 +1,4 @@
-# Developer perception of quality replication kit
+# On the differences between quality increasing and other changes in open source Java projects
 
 The static source code metrics were collected previously as part of the [SmartSHARK](https://www.github.com/smartshark/) ecosystem.
 To recreate the collection process a combination of the plugins [vcsSHARK](https://www.github.com/smartshark/vcsSHARK), [mecoSHARK](https://www.github.com/smartshark/mecoSHARK) and optionally [serverSHARK](https://www.github.com/smartshark/serverSHARK) for orchestration of plugins is needed.
